@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1480911046 source:c:\users\sagar negi\desktop\project\data_structure\functions.c
+	"prototypes.h"
+
+1480910023 c:\users\sagar negi\desktop\project\data_structure\prototypes.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1480848054 source:c:\users\sagar negi\desktop\project\data_structure\main.c
+	"prototypes.h"
+
+1480683924 source:c:\users\sagar negi\desktop\project\data_structure\linked_list.c
+	"prototypes.h"
+
+1480877551 source:c:\users\sagar negi\desktop\project\data_structure\linked list.c
+	"prototypes.h"
+
+1480879923 source:c:\users\sagar negi\desktop\project\data_structure\stacks.c
+	"prototypes.h"
+
+1480880519 source:c:\users\sagar negi\desktop\project\data_structure\queues.c
+	"prototypes.h"
+
+1480881510 source:c:\users\sagar negi\desktop\project\data_structure\searching.c
+	"prototypes.h"
+
+1480881209 source:c:\users\sagar negi\desktop\project\data_structure\sorting.c
+	"prototypes.h"
+
+1480910660 source:c:\users\sagar negi\desktop\project\data_structure\trees.c
+	"prototypes.h"
+
+1480861963 source:c:\users\sagar negi\desktop\project\data_structure\front page and password.c
+	"prototypes.h"
+
+1480868117 source:c:\users\sagar negi\desktop\project\data_structure\main menu.c
+	"prototypes.h"
+
